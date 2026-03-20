@@ -32,7 +32,7 @@
 
 | 项目名称 | 简介 | 技术栈 | 成果 |
 |----------|------|--------|------|
-| [物流货量预测与调度优化]([.](https://github.com/Xiesta-27/logistics-forecast-optimization) | 基于LSTM与MILP的短途物流预测与调度系统 | Python, LSTM, MILP, Pandas | RMSE降低65%，运输成本降低23% |
+| [物流货量预测与调度优化](https://github.com/Xiesta-27/logistics-forecast-optimization) | 基于LSTM与MILP的短途物流预测与调度系统 | Python, LSTM, MILP, Pandas | RMSE降低65%，运输成本降低23% |
 | [用户消费行为分析](链接) | 电商用户RFM模型与购买意向预测 | Python, Scikit-learn, Matplotlib | 模型AUC 0.87，用户分层精准度提升30% |
 
 ## 📊 数学建模竞赛作品集
