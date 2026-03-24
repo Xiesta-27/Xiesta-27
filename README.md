@@ -35,5 +35,4 @@
 
 ## 📝 学习笔记
 记录个人的数据分析、SQL等学习相关的总结：
-- [Python数据分析学习笔记](./Study-Notes/01_Python)
-- [SQL学习笔记](./Study-Notes/02_sql)
+- [Python、SQL数据分析学习笔记](https://github.com/Xiesta-27/Study-Notes)
