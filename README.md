@@ -19,15 +19,17 @@
 欢迎各位朋友/前辈一起交流学习心得和技术实践！
 
 ## 🛠️ 专业技能
-- **数据处理与分析**：熟悉使用Python（Pandas、NumPy）完成数据清洗、统计分析、特征工程与全流程探索性分析
-- **数据库操作**：熟练MySQL，可完成复杂数据查询、多表关联、窗口函数与核心指标聚合统计
+- **数据处理与分析**：熟悉使用 MySQL、Pandas 完成数据清洗、统计分析
+- **数据库操作**：熟练 MySQL ，可完成复杂数据查询、多表关联、窗口函数与核心指标聚合统计
 - **数学建模与算法**：熟悉回归、分类、聚类、时间序列预测等经典机器学习算法，具备完整的模型搭建、参数调优、效果评估与模型解读能力
-- **数据可视化**：可通过Matplotlib、Tableau完成分析结果可视化
+- **数据可视化**：可通过 Matplotlib、Pyecharts、Tableau 完成分析结果可视化
 
-## 📊 核心项目
+## 📊 项目经历
 
 | 项目名称 | 简介 | 技术栈 | 成果 |
 |----------|------|--------|------|
+| [天猫订单数据分析项目](https://github.com/Xiesta-27/DATA_ANALYSE/tree/main/tmall-order-analysis) | 基于LSTM与MILP的短途物流预测与调度系统 | MySQL 数据清洗、聚合分析、pyecharts 交互式可视化、matplotlib | 显示出 **东部沿海省市（上海、广东等）** 为核心营收市场，西部偏远地区为业务盲区。 |
+| [双十一淘宝美妆数据分析](https://github.com/Xiesta-27/DATA_ANALYSE/tree/main/Double-11-analysis) | 基于LSTM与MILP的短途物流预测与调度系统 | MySQL 窗口函数 / 聚合分析、数据清洗与特征工程、Pandas、Matplotlib | 双十一销量在9号就到达最大订单量，定位核心销量峰值 |
 | [物流货量预测与调度优化](https://github.com/Xiesta-27/logistics-forecast-optimization) | 基于LSTM与MILP的短途物流预测与调度系统 | Python, LSTM,  Pandas ，Matplotlib | RMSE降低65%，运输成本降低23% |
 | [基于多模型融合的新能源汽车未来发展分析（广东省](https://github.com/Xiesta-27/new-energy-vehicle-development-analysis) | 面向新能源汽车产业场景，完成**数据分析全链路落地**，覆盖探索性分析、数据清洗、特征工程、综合评价与销量预测全流程，解决疫情数据异常、指标多重共线性等行业痛点，量化产业发展趋势并输出可落地的业务洞察 | Python, Scikit-learn, Matplotlib | 预测模型 R² 达 0.95，量化得到产业年均 52% 的增长趋势 |
 
