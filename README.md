@@ -11,11 +11,7 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
 
 
-暨南大学 信息与计算科学 (2027届)
-
-
-意向2027届毕业直接就业，目前在学习数据分析、机器学习相关知识。
-欢迎各位朋友/前辈一起交流学习心得和技术实践！
+秋招中...
 
 ## 🛠️ 专业技能
 - **数据处理与分析**：熟悉使用 MySQL、Pandas 完成数据清洗、统计分析
